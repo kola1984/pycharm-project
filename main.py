@@ -12,6 +12,10 @@ def car():
 def wheel():
     color = 'black'
     return color
+def brand():
+    make = 'toyota'
+    return make
+
     
   
 
