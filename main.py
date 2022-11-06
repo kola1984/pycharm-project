@@ -5,4 +5,8 @@ print(list)
 
 def car():
     print('this is awesome')
+    color = 'white'
+    return color
+    
+  
 
