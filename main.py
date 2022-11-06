@@ -8,6 +8,10 @@ def car():
 
     color = 'white'
     return color
+
+def wheel():
+    color = 'black'
+    return color
     
   
 
