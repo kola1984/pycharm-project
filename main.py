@@ -16,6 +16,9 @@ def brand():
     make = 'toyota'
     return make
 
+def newBranch():
+    pass
+
     
   
 
